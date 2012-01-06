@@ -5,4 +5,4 @@ def funct():
 def sub():
     a=10
     b=20
-    return b-a
+    return b-a-1
